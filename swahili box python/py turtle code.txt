@@ -1,0 +1,57 @@
+import turtle
+
+
+#
+ Make a square with the turtle
+
+
+exom = turtle.Turtle()
+
+
+exom.forward(50)
+
+exom.right(90)    
+
+ # Rotate clockwise by 90 degrees
+
+
+exom.forward(50)
+
+exom.right(90)
+
+
+
+exom.forward(50)
+
+exom.right(90)
+
+
+
+exom.forward(50)
+
+exom.right(90)
+
+
+
+exom.forward(100)
+
+exom.right(90)
+
+
+
+exom.forward(50)
+
+exom.right(90)
+
+
+
+exom.forward(50)
+
+exom.right(90)
+
+
+
+
+
+
+turtle.done()
